@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'webgithub1'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_eeb6be74f0a94b2fa541c2108fcfb52e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1f6937626e84052b34521ee66993ddf }}
         package: .
